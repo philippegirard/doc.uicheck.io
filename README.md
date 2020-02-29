@@ -1,6 +1,6 @@
 # What is UiCheck 🤷‍♂️
 
-UiCheck is a drop-in subscription management portal for your users.
+UiCheck is a drop-in subscription management portal for your users. UiCheck works on top of Stripe Billing.
 
 Visit at [https://uicheck.io/](https://uicheck.io/).
 
