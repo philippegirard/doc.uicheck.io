@@ -44,5 +44,3 @@ But to see if it works for you there is no better way that trying it out. Follow
 Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see how we can help you and improve our doc. 
 {% endhint %}
 
-{% embed url="https://m.me/UiCheck" caption="Message Us on Facebook by clicking this link" %}
-
