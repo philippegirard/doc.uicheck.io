@@ -26,8 +26,6 @@ After entering your email and your password you should have access to UiCheck. A
 
 Upon registering with a social button \(Google/Github\) you can be redirected to a page that ask you to associate an email with your account. By default, UiCheck will use the email associated with your social account.
 
-
-
 {% hint style="info" %}
 Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see how we can help you and improve our doc. If something is not clear we would love to hear about it 😍
 {% endhint %}
