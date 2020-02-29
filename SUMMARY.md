@@ -19,5 +19,11 @@
 
 * [Embedding the code](integration/embedding-the-code.md)
 * [Generating the signature](integration/generating-the-signature.md)
+
+## Examples
+
+* [Integrate UiCheck with Node, Express, Javascript](examples/integrate-uicheck-with-node-express-javascript.md)
+* [Integrate UiCheck with Python and Django](examples/integrate-uicheck-with-python-and-django.md)
+* [Integrate UiCheck with Ruby on Rails](examples/integrate-uicheck-with-ruby-on-rails.md)
 * [To UiCheck](https://uicheck.io)
 
