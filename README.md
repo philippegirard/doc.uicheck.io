@@ -1,3 +1,7 @@
+---
+description: 'https://uicheck.io/'
+---
+
 # What is UiCheck
 
 UiCheck is a drop-in subscription management portal for your users.
