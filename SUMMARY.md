@@ -5,6 +5,8 @@
 ## Create an account 📑
 
 * [Signing Up ✨](create-an-account/signing-up.md)
+* [App tour 🗽](create-an-account/app-tour.md)
+* [Connect your Stripe Account 💳](create-an-account/connect-your-stripe-account.md)
 
 ## Installation
 
