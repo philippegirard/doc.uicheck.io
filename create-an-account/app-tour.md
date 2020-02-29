@@ -41,3 +41,9 @@ Allows you to subscribe for UiCheck.
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
+## Conclusion
+
+Now that you have made the tour of UiCheck you are ready to integrate it to your website. The first step is to connect you Stripe account. You can read all about it here:
+
+{% page-ref page="connect-your-stripe-account.md" %}
+
