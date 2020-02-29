@@ -13,10 +13,11 @@
 ## Configure Stripe
 
 * [Add customers](configure-stripe/untitled.md)
+* [Add plans](configure-stripe/add-plans.md)
 
-## Installation
+## Integration
 
-* [Embedding the code](installation/embedding-the-code.md)
-* [Generating the signature](installation/generating-the-signature.md)
+* [Embedding the code](integration/embedding-the-code.md)
+* [Generating the signature](integration/generating-the-signature.md)
 * [To UiCheck](https://uicheck.io)
 
