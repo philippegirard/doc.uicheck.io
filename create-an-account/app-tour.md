@@ -10,7 +10,9 @@ The first time you connect to UiCheck you will see this page.
 
 ![](../.gitbook/assets/frame_chrome_mac_light-1.png)
 
-On the home page you can connect your Stripe account. This will be very important in the following steps. If you want to skip ahead see how to connect your Stripe account [here](connect-your-stripe-account.md).
+On the home page you can connect your Stripe account. This will be very important in the following steps. If you want to skip ahead see how to connect your Stripe account here:
+
+{% page-ref page="connect-your-stripe-account.md" %}
 
 ## Account page
 
