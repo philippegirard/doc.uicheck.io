@@ -40,5 +40,5 @@ You can now focus on other part of your website. To goal of UiCheck is to save y
 
 But to see if it works for you there is no better way that trying it out. Follow the installation guide to see how it's easy and fast to integrate UiCheck into your website. 
 
-Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see where the documentation is not clear.
+Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see how we can help you and improve our doc.
 
