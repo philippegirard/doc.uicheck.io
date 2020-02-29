@@ -2,9 +2,9 @@
 
 * [What is UiCheck](README.md)
 
-## Create an account
+## Create an account 📑
 
-* [Signing Up](create-an-account/signing-up.md)
+* [Signing Up ✨](create-an-account/signing-up.md)
 
 ## Installation
 
