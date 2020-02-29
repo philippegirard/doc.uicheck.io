@@ -1,10 +1,10 @@
 ---
-description: 'https://uicheck.io/'
+description: UiCheck is a drop-in subscription management portal for your users.
 ---
 
 # What is UiCheck
 
-UiCheck is a drop-in subscription management portal for your users.
+Visit at [https://uicheck.io/](https://uicheck.io/)
 
 ## 🤷‍♂️ Why would I use UiCheck?
 
