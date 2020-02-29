@@ -20,3 +20,5 @@ You will then be redirected back to UiCheck, but this time the interface will be
 
 Congratulation! 🎉You have successfully connected your Stripe account to UiCheck!
 
+You are now ready configure your Stripe account.
+

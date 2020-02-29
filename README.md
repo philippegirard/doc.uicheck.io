@@ -1,4 +1,4 @@
-# What is UiCheck
+# What is UiCheck 🤷‍♂️
 
 UiCheck is a drop-in subscription management portal for your users.
 
