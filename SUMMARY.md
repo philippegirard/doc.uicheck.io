@@ -11,7 +11,7 @@
 
 ## Configure Stripe
 
-* [Untitled](configure-stripe/untitled.md)
+* [Add customers](configure-stripe/untitled.md)
 
 ## Installation
 
