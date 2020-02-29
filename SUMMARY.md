@@ -25,5 +25,5 @@
 * [Integrate UiCheck with Node, Express, Javascript](examples/integrate-uicheck-with-node-express-javascript.md)
 * [Integrate UiCheck with Python and Django](examples/integrate-uicheck-with-python-and-django.md)
 * [Integrate UiCheck with Ruby on Rails](examples/integrate-uicheck-with-ruby-on-rails.md)
-* [To UiCheck](https://uicheck.io)
+* [Visit UiCheck](https://app.uicheck.io)
 
