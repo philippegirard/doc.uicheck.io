@@ -29,3 +29,15 @@ Danger Zone
 
 ![](../.gitbook/assets/frame_chrome_mac_light-8.png)
 
+## Portal parameters
+
+Allow you to change parameters of the subscription portal you users will see.
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+## Billing
+
+Allows you to subscribe for UiCheck.
+
+![](../.gitbook/assets/image%20%281%29.png)
+
