@@ -14,6 +14,10 @@ While we write this content you can look at the following links to understand be
 * [https://stripe.com/en-ca/about](https://stripe.com/en-ca/about)
 * [https://cashnotify.com/help/what-is-stripe/](https://cashnotify.com/help/what-is-stripe/)
 
+## What is Stripe Billing
+
+* [https://stripe.com/en-ca/billing](https://stripe.com/en-ca/billing)
+
 
 
 
