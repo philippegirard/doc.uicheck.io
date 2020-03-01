@@ -1,8 +1,20 @@
 ---
-description: Coming Soon!
+description: Add customer to your Stripe live account
 ---
 
 # Add customers
+
+{% hint style="info" %}
+If you already have some Stripe live customers you can skip this page.
+{% endhint %}
+
+At the moment UiCheck works only with Stripe in livemode. This means that you need to add some live customers in your Stripe account to test the integration with UiCheck. 
+
+First go to your Stripe dashboard and login with the account you connected to UiCheck. If your Stripe account is not connected to UiCheck, [check out our tutorial.](../create-an-account/connect-your-stripe-account.md)
+
+![Stripe Dashboard](../.gitbook/assets/frame_chrome_mac_light-11.png)
+
+
 
 
 
