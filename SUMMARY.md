@@ -14,6 +14,7 @@
 
 * [Add customers 🙋‍♀️](configure-stripe/untitled.md)
 * [Add plans 💲](configure-stripe/add-plans.md)
+* [Subscribe a customer to a plan 🚴‍♂️](configure-stripe/subscribe-a-customer-to-a-plan.md)
 
 ## Integration
 
