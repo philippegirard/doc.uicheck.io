@@ -16,7 +16,7 @@ Once connected, you will be asked to confirm which Stripe Account you want to co
 
 You will then be redirected back to UiCheck, but this time the interface will be different
 
-![](../.gitbook/assets/frame_chrome_mac_light-7.png)
+![](../.gitbook/assets/frame_chrome_mac_light.png)
 
 Congratulation! 🎉You have successfully connected your Stripe account to UiCheck!
 

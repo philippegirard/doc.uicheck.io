@@ -35,7 +35,7 @@ Danger Zone
 
 Allow you to change parameters of the subscription portal you users will see.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## Billing
 
