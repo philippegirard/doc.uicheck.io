@@ -42,7 +42,13 @@ Now press the add pricing plan button to add more subscribing options to your cu
 
 For the purpose of this tutorial we are going to create 3 plans in total. Starter at 10$/month, Professional at 30$/month and Entreprise at 100$/month. Don't worry you can easily delete later the plans and the product we created for this tutorial.
 
+![](../.gitbook/assets/frame_chrome_mac_light-12.png)
 
+Now, if you go back in the UiCheck interface you should see that your customers will be suggested to subscribe to the plans you just created when you load the UiCheck interface for them. To test that, we will use the preview section of UiCheck.
+
+![](../.gitbook/assets/capturedstg2.gif)
+
+In the next section we will see how our customers can subscribe to plans. 
 
 {% hint style="info" %}
 Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see how we can help you and improve our doc. If something is not clear we would love to hear about it 😍
