@@ -29,7 +29,7 @@ Danger Zone
 * **Set / Change password**: You can add a password if you connected your account with a social login. This will allow you to connect with a email / password login in addition of you connected social accounts. 
 * **Disconnect Stripe account**: If you have any problem with your Stripe account you can disconnect it here and reconnect it afterwards. 
 
-![](../.gitbook/assets/frame_chrome_mac_light-8.png)
+![](../.gitbook/assets/frame_chrome_mac_light-8%20%281%29.png)
 
 ## Portal parameters
 

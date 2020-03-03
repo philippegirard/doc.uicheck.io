@@ -12,7 +12,7 @@ At the moment UiCheck works only with Stripe in livemode. This means that you ne
 
 First go to your Stripe dashboard \([https://dashboard.stripe.com/](https://dashboard.stripe.com/)\) and login with the account you connected to UiCheck. If your Stripe account is not connected to UiCheck, [check out our tutorial.](../create-an-account/connect-your-stripe-account.md)
 
-![Stripe Dashboard](../.gitbook/assets/frame_chrome_mac_light-11.png)
+![Stripe Dashboard](../.gitbook/assets/frame_chrome_mac_light-11%20%281%29.png)
 
 Go to the Customers page \([https://dashboard.stripe.com/customers](https://dashboard.stripe.com/customers)\)
 
