@@ -12,8 +12,8 @@
 
 ## Configure Stripe
 
-* [Add customers](configure-stripe/untitled.md)
-* [Add plans](configure-stripe/add-plans.md)
+* [Add customers 🙋‍♀️](configure-stripe/untitled.md)
+* [Add plans 💲](configure-stripe/add-plans.md)
 
 ## Integration
 

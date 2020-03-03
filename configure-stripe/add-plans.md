@@ -1,8 +1,10 @@
 ---
-description: Coming Soon!
+description: >-
+  So you have a customer in your Stripe live account. It is now time to make
+  plans available to him.
 ---
 
-# Add plans
+# Add plans 💲
 
 
 

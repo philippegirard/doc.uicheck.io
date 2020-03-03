@@ -2,7 +2,7 @@
 description: Add customer to your Stripe live account
 ---
 
-# Add customers
+# Add customers 🙋‍♀️
 
 {% hint style="info" %}
 If you already have some Stripe live customers you can skip this page.
@@ -31,6 +31,12 @@ Now if you Go back in the UiCheck interface you should see this customer appear.
 ![](../.gitbook/assets/frame_chrome_mac_light-4%20%281%29.png)
 
 If you click in the Go button you will be able to see what you customer will see when his billing page will be loaded.
+
+![](../.gitbook/assets/capturedstg.gif)
+
+As you can see there is a notice that no plans are available. We are going to fix that in the next step.
+
+{% page-ref page="add-plans.md" %}
 
 
 
