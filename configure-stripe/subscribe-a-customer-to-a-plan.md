@@ -32,3 +32,5 @@ If you want to see real example, you can connect your credit card to the custome
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
+You are now ready to programmatically integrate UiCheck to your website.
+
