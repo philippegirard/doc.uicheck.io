@@ -20,9 +20,9 @@ Go to the Customers page
 
 Create a new customer
 
+![Add a customer in your connected Stripe account](../.gitbook/assets/captured-1.gif)
 
-
-Here you can see your new Stripe Customer:
+You now have a Stripe Customer:
 
 ![](../.gitbook/assets/frame_chrome_mac_light-2.png)
 
