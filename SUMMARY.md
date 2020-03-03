@@ -20,6 +20,11 @@
 * [Embedding the code](integration/embedding-the-code.md)
 * [Generating the signature](integration/generating-the-signature.md)
 
+## Closing the loop
+
+* [How to create customers in Stripe programmatically](closing-the-loop/how-to-create-customers-in-stripe-programmatically.md)
+* [How to check if a customer is subscribed to a plan in Stripe](closing-the-loop/how-to-check-if-a-customer-is-subscribed-to-a-plan-in-stripe.md)
+
 ## Examples
 
 * [Integrate UiCheck with Node, Express, Javascript](examples/integrate-uicheck-with-node-express-javascript.md)

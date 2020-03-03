@@ -6,6 +6,8 @@ description: >-
 
 # Add plans 💲
 
+Any subscription business needs multiple tiers a customer can subscribe to. Here is how to add plans in Stripe so that they get suggested to you customer in UiCheck.
+
 
 
 {% hint style="info" %}
