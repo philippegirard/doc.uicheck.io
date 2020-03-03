@@ -2,7 +2,7 @@
 
 * [What is UiCheck 🤷‍♂️](README.md)
 * [What is Stripe](what-is-stripe.md)
-* [Role of Stripe in UiCheck app](role-of-stripe-in-uicheck-app.md)
+* [Role of Stripe in UiCheck app 🎎](role-of-stripe-in-uicheck-app.md)
 
 ## Create an account 📑
 
