@@ -19,7 +19,7 @@
 ## Integration
 
 * [Embedding the code 🏓](integration/embedding-the-code.md)
-* [Generating the signature](integration/generating-the-signature.md)
+* [Generating the signature ✅](integration/generating-the-signature.md)
 
 ## Closing the loop
 

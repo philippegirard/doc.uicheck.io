@@ -2,7 +2,7 @@
 description: Coming Soon!
 ---
 
-# Generating the signature
+# Generating the signature ✅
 
 This is the last part of the tutorial !!! You have made it through ! 
 
