@@ -14,6 +14,12 @@ On the home page you can connect your Stripe account. This will be very importan
 
 {% page-ref page="connect-your-stripe-account.md" %}
 
+## Integration
+
+All the information necessary for the integration of UiCheck to your website.
+
+![](../.gitbook/assets/frame_chrome_mac_light-25.png)
+
 ## Account page
 
 This page allows you to manage your account. 
@@ -29,7 +35,7 @@ Danger Zone
 * **Set / Change password**: You can add a password if you connected your account with a social login. This will allow you to connect with a email / password login in addition of you connected social accounts. 
 * **Disconnect Stripe account**: If you have any problem with your Stripe account you can disconnect it here and reconnect it afterwards. 
 
-![](../.gitbook/assets/frame_chrome_mac_light-8%20%281%29.png)
+![](../.gitbook/assets/frame_chrome_mac_light-26.png)
 
 ## Portal parameters
 
