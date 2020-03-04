@@ -41,13 +41,13 @@ Danger Zone
 
 Allow you to change parameters of the subscription portal you users will see.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/frame_chrome_mac_light-27.png)
 
 ## Billing
 
 Allows you to subscribe for UiCheck.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/frame_chrome_mac_light-28.png)
 
 ## Conclusion
 
