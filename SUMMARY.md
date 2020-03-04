@@ -30,7 +30,7 @@
 * [Integrate UiCheck with Python and Django](examples/integrate-uicheck-with-python-and-django.md)
 * [Integrate UiCheck with Ruby on Rails](examples/integrate-uicheck-with-ruby-on-rails.md)
 * [Suggest a stack](examples/suggest-a-stack.md)
-* [Visit UiCheck](https://app.uicheck.io)
+* [To UiCheck website](https://app.uicheck.io)
 * [To UiCheck App](https://app.uicheck.io/)
 
 ## More in progress articles
