@@ -1,4 +1,4 @@
-# Portal parameters
+# Portal parameters 🌈
 
 The Portal Parameters page is the page that allows you to change the parameters of the subscription portal that you display to your users. They can be accessed here: [https://app.uicheck.io/app/params](https://app.uicheck.io/app/params)
 

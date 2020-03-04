@@ -18,7 +18,7 @@
 
 * [Embedding the code 🏓](integration/embedding-the-code.md)
 * [Generating the signature ✅](integration/generating-the-signature.md)
-* [Portal parameters](integration/portal-parameters.md)
+* [Portal parameters 🌈](integration/portal-parameters.md)
 
 ## Closing the loop
 
