@@ -104,6 +104,12 @@ uicheck_id = os.environ['UICHECK_ID']
 # return to the frontend stripe_customer_id, uicheck_signature and uicheck_id  
 ```
 
+## Troubleshooting signature
+
+UiCheck provides you with a tool to easily debug the code that generates the signature. You can see the expected signature in the preview section of the home page.
+
+![](../.gitbook/assets/frame_chrome_mac_light-18.png)
+
 {% hint style="info" %}
 Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see how we can help you and improve our doc. If something is not clear we would love to hear about it 😍
 {% endhint %}
