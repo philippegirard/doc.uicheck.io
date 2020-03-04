@@ -31,10 +31,10 @@
 * [Integrate UiCheck with Ruby on Rails](examples/integrate-uicheck-with-ruby-on-rails.md)
 * [Suggest a stack](examples/suggest-a-stack.md)
 * [Visit UiCheck](https://app.uicheck.io)
+* [To UiCheck App](https://app.uicheck.io/)
 
 ## More in progress articles
 
 * [What is Stripe](more-in-progress-articles/what-is-stripe.md)
 * [Role of Stripe in UiCheck app 🎎](more-in-progress-articles/role-of-stripe-in-uicheck-app.md)
-* [To UiCheck App](https://app.uicheck.io/)
 
