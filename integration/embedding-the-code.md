@@ -50,6 +50,10 @@ Normally you should retrieve the stripe\_customer\_id from your database when re
 | user2@email.com | user two | .... .... .... | cus\_jkQ7SyqddqdEU4 |
 | ... |  |  |  |
 
+Note that you will need to create a Stripe customer id programmatically for each of you users using the Stripe SDK. We have a tutorial on that here:
+
+{% page-ref page="../closing-the-loop/how-to-create-customers-in-stripe-programmatically.md" %}
+
 ## What is the signature
 
 The signature is a cryptographic mechanism that ensure your customers will only be able to see their billing information. It is a protection against forgery. You generate a different signature for every of your customers. The signature is created with the uicheck\_secret. To learn how to generate the signature check the following part of the tutorial:
