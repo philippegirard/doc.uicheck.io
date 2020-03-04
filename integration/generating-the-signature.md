@@ -110,6 +110,8 @@ UiCheck provides you with a tool to easily debug the code that generates the sig
 
 ![](../.gitbook/assets/frame_chrome_mac_light-18.png)
 
+You can compare this signature to what your code generates. They should be identical.
+
 {% hint style="info" %}
 Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see how we can help you and improve our doc. If something is not clear we would love to hear about it 😍
 {% endhint %}
