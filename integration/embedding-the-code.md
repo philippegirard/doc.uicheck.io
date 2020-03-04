@@ -40,6 +40,16 @@ During development, you can find Stripe customer ID in your Stripe dashboard. Ho
 
 You can then use this value as the stripe\_customer\_id in UiCheck code snippet.
 
+### Accessing the stripe\_customer\_id from your database
+
+Normally you should retrieve the stripe\_customer\_id from your database when rendering the billing page in your subscription software. The simplest way to do that with an SQL database is to add a column name stripe\_customer\_id in your user table and put their the stripe customer id of each of your user.
+
+| email | name | hashed\_password | stripe\_customer\_id |
+| :--- | :--- | :--- | :--- |
+| user1@email.com | user one | .... .... .... | cus\_GqQ7SyqddqdEU4 |
+| user2@email.com | user two | .... .... .... | cus\_jkQ7SyqddqdEU4 |
+| ... |  |  |  |
+
 ## What is the signature
 
 The signature is a cryptographic mechanism that ensure your customers will only be able to see their billing information. It is a protection against forgery. You generate a different signature for every of your customers. The signature is created with the uicheck\_secret. To learn how to generate the signature check the following part of the tutorial:
