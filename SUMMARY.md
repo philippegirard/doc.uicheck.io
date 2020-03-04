@@ -36,4 +36,5 @@
 
 * [What is Stripe](more-in-progress-articles/what-is-stripe.md)
 * [Role of Stripe in UiCheck app 🎎](more-in-progress-articles/role-of-stripe-in-uicheck-app.md)
+* [To UiCheck App](https://app.uicheck.io/)
 
