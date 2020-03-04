@@ -1,8 +1,6 @@
 # Table of contents
 
 * [What is UiCheck 🤷‍♂️](README.md)
-* [What is Stripe](what-is-stripe.md)
-* [Role of Stripe in UiCheck app 🎎](role-of-stripe-in-uicheck-app.md)
 
 ## Create an account 📑
 
@@ -33,4 +31,9 @@
 * [Integrate UiCheck with Ruby on Rails](examples/integrate-uicheck-with-ruby-on-rails.md)
 * [Suggest a stack](examples/suggest-a-stack.md)
 * [Visit UiCheck](https://app.uicheck.io)
+
+## More in progress articles
+
+* [What is Stripe](more-in-progress-articles/what-is-stripe.md)
+* [Role of Stripe in UiCheck app 🎎](more-in-progress-articles/role-of-stripe-in-uicheck-app.md)
 

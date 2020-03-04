@@ -17,7 +17,7 @@ Programming a billing management page looks straightforward at first
 > _Billy - developing cool SaaS 🐱‍🏍_
 
 {% hint style="info" %}
-Don't know what is Stripe? No problem! We can tell you all about it [here](what-is-stripe.md).
+Don't know what is Stripe? No problem! We can tell you all about it [here](more-in-progress-articles/what-is-stripe.md).
 {% endhint %}
 
 However, the reality is very different. Stripe has a subscription product called Stripe Billing, but you have to get familiar with a lot of their APIs concept before getting productive. Once you get productive, their APIs get updated and you have to keep up with the changes. Finally, you must translate everything in term of UI and buttons, since Stripe does not provide any kind of hosted subscription management portal.
