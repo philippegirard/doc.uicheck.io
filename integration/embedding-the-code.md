@@ -22,7 +22,7 @@ It is very easy to integrate UiCheck to your website. Just copy paste the follow
 
 Go to the integration page in the UiCheck dashboard \([https://app.uicheck.io/app/integration](https://app.uicheck.io/app/integration)\)
 
-![](../.gitbook/assets/frame_chrome_mac_light-19.png)
+![](../.gitbook/assets/frame_chrome_mac_light-23.png)
 
 
 

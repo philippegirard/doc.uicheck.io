@@ -28,7 +28,7 @@ You now have a Stripe Customer:
 
 Now if you Go back in the UiCheck interface you should see this customer appear.
 
-![](../.gitbook/assets/frame_chrome_mac_light-4%20%281%29.png)
+![](../.gitbook/assets/frame_chrome_mac_light-22.png)
 
 If you click in the Go button you will be able to see what you customer will see when his billing page will be loaded.
 

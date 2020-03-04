@@ -108,7 +108,7 @@ uicheck_id = os.environ['UICHECK_ID']
 
 UiCheck provides you with a tool to easily debug the code that generates the signature. You can see the expected signature in the preview section of the home page.
 
-![](../.gitbook/assets/frame_chrome_mac_light-18.png)
+![](../.gitbook/assets/frame_chrome_mac_light-24.png)
 
 You can compare this signature to what your code generates. They should be identical.
 

@@ -2,7 +2,7 @@
 
 In [https://app.uicheck.io/](https://app.uicheck.io/) Click **CONNECT TO STRIPE**
 
-![Click CONNECT TO STRIPE](../.gitbook/assets/frame_chrome_mac_light-1.png)
+![](../.gitbook/assets/frame_chrome_mac_light-21.png)
 
 You will be redirected to Stripe connection portal.
 
