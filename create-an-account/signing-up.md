@@ -10,7 +10,7 @@ First, you need to go to [https://app.uicheck.io/accounts/signup/](https://app.u
 
 You will be presented with the Sign Up page:
 
-![fill out your infos &#x1F431;&#x200D;&#x1F464;](../.gitbook/assets/chrome-capture.gif)
+![fill out your infos &#x1F575;&#xFE0F;&#x200D;&#x2640;&#xFE0F;&#x1F92B;](../.gitbook/assets/chrome-capture.gif)
 
 At the moment there is 3 Sign Up options:
 
