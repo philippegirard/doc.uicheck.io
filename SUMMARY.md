@@ -20,6 +20,10 @@
 * [Generating the signature ✅](integration/generating-the-signature.md)
 * [Portal parameters 🌈](integration/portal-parameters.md)
 
+## Extra
+
+* [Add description to Plans 📣](extra/add-description-to-plans.md)
+
 ## Closing the loop
 
 * [How to create customers in Stripe programmatically](closing-the-loop/how-to-create-customers-in-stripe-programmatically.md)

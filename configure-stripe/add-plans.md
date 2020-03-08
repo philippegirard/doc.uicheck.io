@@ -51,6 +51,10 @@ Now, if you go back in the UiCheck interface you should see that your customers 
 In the next section we will see how our customers can subscribe to plans. 
 
 {% hint style="info" %}
+To add a description to your plans, [follow these steps](../extra/add-description-to-plans.md).
+{% endhint %}
+
+{% hint style="info" %}
 Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see how we can help you and improve our doc. If something is not clear we would love to hear about it 😍
 {% endhint %}
 

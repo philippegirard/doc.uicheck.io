@@ -40,7 +40,7 @@ This is where UiCheck comes in to save the day. You embed the following snippet 
 
 And... you get a personalized subscription management portal for each of your customers 🚀:
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 You can now focus on other part of your website. To goal of UiCheck is to save you precious time so you can instead develop the business logic that will bring the value to your subscription business. 
 
