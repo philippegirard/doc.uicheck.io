@@ -20,20 +20,7 @@ All the information necessary for the integration of UiCheck to your website.
 
 ![](../.gitbook/assets/frame_chrome_mac_light-25.png)
 
-## Account page
-
-This page allows you to manage your account. 
-
-Account management
-
-* **Manage email adresses**: Add, change, remove email addresses to connect to your UiCheck account
-* **Manage social accounts**: Add, link, remove social account that will allow you to connect to UiCheck.
-* **Logout**: Disconnect your session
-
-Danger Zone
-
-* **Set / Change password**: You can add a password if you connected your account with a social login. This will allow you to connect with a email / password login in addition of you connected social accounts. 
-* **Disconnect Stripe account**: If you have any problem with your Stripe account you can disconnect it here and reconnect it afterwards. 
+## Account Bar
 
 ![](../.gitbook/assets/frame_chrome_mac_light-26.png)
 
