@@ -21,7 +21,7 @@ Use Emoji to make your plan descriptions look awesome 🦄 \(windows : **windows
 
 #### 3. Click Save
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 **4. Admire the result**
 
