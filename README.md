@@ -1,10 +1,14 @@
-# What is UiCheck 🤷‍♂️
+---
+description: >-
+  UiCheck is a drop-in subscription management portal for your users. UiCheck
+  works on top of Stripe Billing.
+---
 
-UiCheck is a drop-in subscription management portal for your users. UiCheck works on top of Stripe Billing.
+# What is UiCheck 🤷‍♂️
 
 UiCheck website: [https://uicheck.io/](https://uicheck.io/).
 
-UiCheck app: [https://app.uicheck.io/](https://app.uicheck.io/)
+UiCheck app: [https://dashboard.uicheck.io/](https://dashboard.uicheck.io/)
 
 ## 🤷‍♂️ Why would I use UiCheck?
 
@@ -12,17 +16,11 @@ UiCheck app: [https://app.uicheck.io/](https://app.uicheck.io/)
 
 In a business with subscription revenue, you need a page where your users can manage their billing information, upgrade plan, see their past invoices and update their credit cards. 
 
-Programming a billing management page looks straightforward at first
-
-> Programming my billing page should take an afternoon. Just need to create a Stripe account and integrate their API with my website!
->
-> _Billy - developing cool SaaS 🐱‍🏍_
-
 {% hint style="info" %}
 Don't know what is Stripe? No problem! We can tell you all about it [here](more-in-progress-articles/what-is-stripe.md).
 {% endhint %}
 
-However, the reality is very different. Stripe has a subscription product called Stripe Billing, but you have to get familiar with a lot of their APIs concept before getting productive. Once you get productive, their APIs get updated and you have to keep up with the changes. Finally, you must translate everything in term of UI and buttons, since Stripe does not provide any kind of hosted subscription management portal.
+Programming a billing management page looks straightforward at first, however, the reality is very different. Stripe has a subscription product called Stripe Billing, but you have to get familiar with a lot of their APIs concept before getting productive. Once you get productive, their APIs get updated and you have to keep up with the changes. Finally, you must translate everything in term of UI and buttons, since Stripe does not provide any kind of hosted subscription management portal.
 
 This is where UiCheck comes in to save the day. You embed the following snippet of code on your website:
 
@@ -33,6 +31,7 @@ This is where UiCheck comes in to save the day. You embed the following snippet 
             uicheckId: 'uicheck_id',
             customerId: 'stripe_customer_id',
             signature: 'signature',
+            livemode: false
     }
 </script>
 <script src="https://cdn.uicheck.io/uicheck.js" async></script>

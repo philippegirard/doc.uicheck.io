@@ -4,15 +4,15 @@ description: Tour UiCheck App.
 
 # App tour 🗽
 
+## Onboarding
+
+The first time you connect to UiCheck you will be asked to connect your Stripe account. 
+
 ## Home page
 
-The first time you connect to UiCheck you will see this page.
+After completing the onboarding process you will see this page:
 
 ![](../.gitbook/assets/frame_chrome_mac_light-20.png)
-
-On the home page you can connect your Stripe account. This will be very important in the following steps. If you want to skip ahead see how to connect your Stripe account here:
-
-{% page-ref page="connect-your-stripe-account.md" %}
 
 ## Integration
 
