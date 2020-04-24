@@ -65,13 +65,13 @@ puts(signature) # prints something like 22af9d...c00d8c
 {% endtab %}
 {% endtabs %}
 
-## How to use the snippets 
+## How to use the signature generation snippets 
 
-There is an infinite way of using these snippets and there is no better way. However, if you are looking for inspiration here is a recommended approach.
+Here is a secure way to generate the above snippets in your backend code.
 
-You put your _uicheck\_id_ and _uicheck\_secret_ in environment variables on your backend server so they are safely stored. 
+Put your _uicheck\_id_ and _uicheck\_secret_ in environment variables on your backend server so they are safely stored. 
 
-Then you can encapsulate the signature generation into a service. Here is an example in python:
+Then you can encapsulate the signature generator into a service. Here is an example in python:
 
 ```python
 import hmac
