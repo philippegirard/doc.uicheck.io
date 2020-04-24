@@ -36,12 +36,6 @@ Allows you to subscribe for UiCheck.
 
 ![](../.gitbook/assets/frame_chrome_mac_light-28.png)
 
-## Conclusion
-
-Now that you have made the tour of UiCheck you are ready to integrate it to your website. The first step is to connect you Stripe account. You can read all about it here:
-
-{% page-ref page="connect-your-stripe-account.md" %}
-
 {% hint style="info" %}
 Need more help?[ Chat with us on Facebook!](https://m.me/UiCheck) We will be happy to see how we can help you and improve our doc. If something is not clear we would love to hear about it 😍
 {% endhint %}
