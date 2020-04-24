@@ -6,7 +6,7 @@ description: >-
 
 # Add plans 💲
 
-Any subscription business needs multiple tiers a customer can subscribe to. Here is how to add plans in Stripe so that they get suggested to you customer in UiCheck.
+Any subscription business needs multiple tiers a customer can subscribe to. This section describes how to add plans in Stripe so that they get suggested to you customer in UiCheck.
 
 Go to your Stripe dashboard \([https://dashboard.stripe.com/](https://dashboard.stripe.com/)\) then go to the Billing section then to the product section \([https://dashboard.stripe.com/subscriptions/products](https://dashboard.stripe.com/subscriptions/products)\)
 
