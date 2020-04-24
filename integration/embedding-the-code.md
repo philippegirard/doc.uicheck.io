@@ -2,9 +2,12 @@
 
 It is very easy to integrate UiCheck to your website. Just copy paste the following code and replace the following values : 
 
-* **uicheck\_id** : your UiCheck id 
-* **stripe\_customer\_id**: the stripe customer ID you want UiCheck to display
+* **uicheckId**: your UiCheck id 
+* **customerId**: the stripe customer ID you want UiCheck to display
 * **signature**: a signature showing that it is really you making the request to UiCheck servers.
+* **livemode**: 
+  * false: customerId is a Stripe test customer
+  * true: customerId is a Stripe live customer
 
 ```markup
 <div id="uicheck-embed"></div>
@@ -13,36 +16,35 @@ It is very easy to integrate UiCheck to your website. Just copy paste the follow
         uicheckId: 'uicheck_id',
         customerId: 'stripe_customer_id',
         signature: 'signature',
+        livemode: false
     }
 </script>
 <script src="https://cdn.uicheck.io/uicheck.js" async></script>
 ```
 
-## Where to find uicheck\_id
+## Where to find uicheckId
 
-Go to the integration page in the UiCheck dashboard \([https://app.uicheck.io/app/integration](https://app.uicheck.io/app/integration)\)
+Go to the integration page in the UiCheck dashboard \([https://dashboard.uicheck.io/integration](https://dashboard.uicheck.io/integration)\)
 
 ![](../.gitbook/assets/frame_chrome_mac_light-23.png)
 
 
 
-## Where to find the stripe\_customer\_id
+## Where to find the customerId
 
-During development, you can find Stripe customer ID in your Stripe dashboard. However, in production this value should accessible in your database and related to a user. 
-
-### Access stripe\_customer\_id in Stripe dashboard
+### Access customerId in Stripe dashboard
 
 1. Go to the customers section of the Stripe dashboard \([https://dashboard.stripe.com/customers](https://dashboard.stripe.com/customers)\) 
-2. Click on the customer you want to get the stripe\_customer\_id
-3. Copy the stripe\_customer\_id \(see screenshot below\)
+2. Click on the customer you want to get the customer ID
+3. Copy the customer ID \(see screenshot below\)
 
 ![](../.gitbook/assets/frame_chrome_mac_light-15.png)
 
-You can then use this value as the stripe\_customer\_id in UiCheck code snippet.
+You can then use this value as the customerId in UiCheck code snippet.
 
-### Accessing the stripe\_customer\_id from your database
+### Accessing the customerId from your database
 
-Normally you should retrieve the stripe\_customer\_id from your database when rendering the billing page in your subscription software. The simplest way to do that with an SQL database is to add a column name stripe\_customer\_id in your user table and put their the stripe customer id of each of your user.
+Normally you should retrieve the customerId from your database when rendering the billing page in your subscription software. The simplest way to do that with an SQL database is to add a column name stripe\_customer\_id in your user table and put their the stripe customer id of each of your user.
 
 | email | name | hashed\_password | stripe\_customer\_id |
 | :--- | :--- | :--- | :--- |
@@ -50,7 +52,7 @@ Normally you should retrieve the stripe\_customer\_id from your database when re
 | user2@email.com | user two | .... .... .... | cus\_jkQ7SyqddqdEU4 |
 | ... |  |  |  |
 
-Note that you will need to create a Stripe customer id programmatically for each of you users using the Stripe SDK. We have a tutorial on that here:
+Note that you will need to create a Stripe customer id programmatically for each of you users using the Stripe SDK. We have links about this process here:
 
 {% page-ref page="../closing-the-loop/how-to-create-customers-in-stripe-programmatically.md" %}
 
