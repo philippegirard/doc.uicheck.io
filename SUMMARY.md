@@ -6,7 +6,6 @@
 
 * [Signing Up ✨](create-an-account/signing-up.md)
 * [App tour 🗽](create-an-account/app-tour.md)
-* [Connect your Stripe Account 💳](create-an-account/connect-your-stripe-account.md)
 
 ## Configure Stripe
 
@@ -40,6 +39,7 @@
 
 ## More in progress articles
 
-* [What is Stripe](more-in-progress-articles/what-is-stripe.md)
+* [What is Stripe](more-in-progress-articles/what-is-stripe/README.md)
+  * [Connect your Stripe Account 💳](more-in-progress-articles/what-is-stripe/connect-your-stripe-account.md)
 * [Role of Stripe in UiCheck app 🎎](more-in-progress-articles/role-of-stripe-in-uicheck-app.md)
 
