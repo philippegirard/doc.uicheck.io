@@ -8,6 +8,8 @@ description: Tour UiCheck App.
 
 The first time you connect to UiCheck you will be asked to connect your Stripe account. 
 
+![](../.gitbook/assets/image%20%282%29.png)
+
 ## Home page
 
 After completing the onboarding process you will see this page:

@@ -8,7 +8,7 @@ First, you need to go to [https://dashboard.uicheck.io/](https://dashboard.uiche
 
 You will be presented with the Sign Up page:
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 Take the time to fill out your information.
 

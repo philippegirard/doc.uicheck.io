@@ -14,7 +14,7 @@ You now see the 3 plans we created in the previous steps. Go ahead and click on 
 
 You are presented with a subscription interface. This is what you customer will see when he will click on one of these button. 
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Now, if you go back to the UiCheck preview interface, you should be able to see that this customer is now subscribed to the plan you selected.
 

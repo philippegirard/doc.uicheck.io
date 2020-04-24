@@ -13,7 +13,7 @@ It is very simple to add a description to your plans.
 
 #### 2. Add a metadata field called "uicheck\_description"
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 {% hint style="info" %}
 Use Emoji to make your plan descriptions look awesome 🦄 \(windows : **windows key + dot**\) \(mac:  **Command + Control + Spacebar**\)
@@ -21,9 +21,9 @@ Use Emoji to make your plan descriptions look awesome 🦄 \(windows : **windows
 
 #### 3. Click Save
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 **4. Admire the result**
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
