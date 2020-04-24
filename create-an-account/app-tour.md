@@ -24,7 +24,7 @@ All the information necessary for the integration of UiCheck to your website.
 
 ![](../.gitbook/assets/frame_chrome_mac_light-26.png)
 
-## Portal parameters
+## Parameters
 
 Allow you to change parameters of the subscription portal you users will see.
 
