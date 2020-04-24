@@ -4,6 +4,8 @@ description: Add customer to your Stripe live account
 
 # Add customers 🙋‍♀️
 
+
+
 {% hint style="info" %}
 If you already have some Stripe live customers you can skip this page.
 {% endhint %}
